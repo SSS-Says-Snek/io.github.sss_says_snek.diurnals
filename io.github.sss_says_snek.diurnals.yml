@@ -1,6 +1,6 @@
 id: "io.github.sss_says_snek.diurnals"
 runtime: "org.gnome.Platform"
-runtime-version: "47"
+runtime-version: "49"
 sdk: "org.gnome.Sdk"
 command: "diurnals"
 finish-args:
